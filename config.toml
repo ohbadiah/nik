@@ -1,6 +1,7 @@
 baseurl = "http://nik.nickmcavoy.com/"
 languageCode = "en-us"
 title = "닉: Nick in Korea"
+theme = "vienna"
 
 [params]
 Author = "Nick McAvoy"
