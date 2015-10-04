@@ -1,0 +1,12 @@
+baseurl = "http://nik.nickmcavoy.com/"
+languageCode = "en-us"
+title = "닉: Nick in Korea"
+
+[params]
+Author = "Nick McAvoy"
+DateForm = "Jan 2, 2006"
+Description = "닉: Nick in Korea"
+Email = "nicholas.mcavoy@gmail.com"
+GitHub = "//github.com/ohbadiah"
+Twitter = "//twitter.com/haineek"
+FaviconFile = "img/favicon.png"
