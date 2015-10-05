@@ -1,3 +1,3 @@
 [submodule "themes/vienna"]
 	path = themes/vienna
-	url = git@github.com:keichi/vienna.git
+	url = github-as-ohbadiah@github.com:ohbadiah/vienna.git
