@@ -1,0 +1,8 @@
+<h3> Comments </h3>
+  {{ $dir := . }}
+<ul>
+  {{ range $file := readDir $dir }}
+  {{ $parsed := getJSON (printf "%s/%s" $dir $file.Name) }}
+  <li>{{ $parsed.number }}</li>
+  {{ end }}
+</ul>
