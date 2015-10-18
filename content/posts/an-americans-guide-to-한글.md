@@ -1,6 +1,6 @@
 +++
 Description = ""
-Tags = [Korean]
+Tags = ["Korean"]
 date = "2015-10-18T23:05:37+09:00"
 title = "An American's Guide to 한글, the Korean writing system"
 
