@@ -9,9 +9,18 @@
  {{ end }}
   <meta property="og:site_name" content="{{ .Site.Title }}" />
   <meta property="og:url" content="{{ .Permalink }}" />
-  {{ with .Params.images }}{{ range first 5 . }}
-  <meta property="og:image" content="{{ . }}" />
-  {{ end }}{{ end }}
+  {{ $baseurl := .Site.BaseURL }}
+  {{ if isSet .Params "images" }}
+    {{ with .Params.images }}
+      {{ range first 5 . }}
+  <meta property="og:image" content="{{$baseurl}}{{ . }}" />
+      {{ end }}
+    {{ end }}
+  {{ else }}
+    {{ with .Site.Params.previewimage }}
+  <meta property="og:image" content="{{$baseurl}}{{ . }}" />
+    {{ end }}
+  {{ end }}
   {{ if .IsPage }}
   <meta property="og:type" content="article" />
   {{ with .Site.Params.facebook }}
