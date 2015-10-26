@@ -6,8 +6,12 @@
   <meta property="og:title" content="{{ if ne .URL "/" }} {{ .Title }} &middot; {{ end }} {{ .Site.Title }}" />
   {{ with .Site.Params.themecolor }}
   <meta name="theme-color" content="{{ . }}" />
- {{ end }}
+  {{ end }}
   <meta property="og:site_name" content="{{ .Site.Title }}" />
+
+  {{ with .Site.Params.description }}
+  <meta property="og:description" content="{{ . }}" />
+  {{ end }}
   <meta property="og:url" content="{{ .Permalink }}" />
   {{ $baseurl := .Site.BaseURL }}
   {{ if isSet .Params "images" }}
