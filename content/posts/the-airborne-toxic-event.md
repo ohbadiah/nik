@@ -4,6 +4,7 @@ Tags = ["pollution"]
 date = "2015-10-24T18:06:48+09:00"
 title = "The Airborne Toxic Event"
 images = ["/img/unhealthy.png"]
+summary = "Here in Korea, you don't need to play pretend in order to ride like a Sith lord!"
 +++
 
 There was a lot of excitement this week over [the new trailer](https://youtu.be/sGbxmsDFVnE) for the big Star Wars sequel out later this year. Among the big revelations was a villain after the tradition of Darth Vader, complete with deep voice and black costume. But here in Korea, you don't need to play pretend in order to ride like a Sith lord!

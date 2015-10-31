@@ -4,6 +4,7 @@ Tags = []
 date = "2015-10-01T23:28:15+09:00"
 title = "Hello October, Hello Autumn"
 images = ["img/hello-october.jpg"]
+summary = "Fall very suddenly arrived today, very fitting for October 1."
 +++
 
 Fall very suddenly arrived today, very fitting for October 1.

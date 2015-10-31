@@ -2,7 +2,7 @@
 date = "2015-10-05T00:10:47+09:00"
 draft = true
 title = "The Red Sea"
-
+summary = "I thought I would drown."
 +++
 I thought I would drown.
 

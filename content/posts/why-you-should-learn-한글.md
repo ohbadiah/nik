@@ -4,6 +4,7 @@ Tags = ["Korean"]
 date = "2015-10-18T23:49:19+09:00"
 title = "Why you should learn 한글"
 images = ["img/Hangeul.png"]
+summary = "I just posted a video explaining how to read Korean. Here's why I made it and why I think you should study it."
 +++
 
 I just posted [a video](/posts/an-americans-guide-to-한글) explaining how to read Korean. You can go from zero to literate in eighteen minutes! Here's why I made it and why I think you should study it.
