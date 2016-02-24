@@ -14,7 +14,7 @@ I and lots of people from my church went to Thailand last week. Our church has a
 
 See below for some photos of the affair.
 
-{{< gallery title="Chiang Rai" >}}
+{{< gallery title="" >}}
 {{% galleryimage file="chiang-rai/DSC_0807.JPG" size="1549x1037" caption="A traditional Thai house we recently purchased and are calling the Global Thai Education Center. It needs some renovations that should start in a couple of months." %}}
 {{% galleryimage file="chiang-rai/DSC_0809.JPG" size="1549x1037" caption="Jinhee along with the missionaries, Mr. and Mrs. Song and Yoon" %}}
 {{% galleryimage file="chiang-rai/DSC_0810.JPG" size="1037x1549" caption="The back yard of GTEC, where we may build more in the future." %}}
@@ -32,10 +32,6 @@ See below for some photos of the affair.
 {{% galleryimage file="chiang-rai/DSC_0846.JPG" size="1549x1037" caption="This poor man was swallowed whole by the elephant moments after I took this photograph." %}}
 {{% galleryimage file="chiang-rai/IMG_0993.JPG" size="1549x1037" caption="The view from the elephant of the village on the way back. Note the Christian church in the distance; many villages in the area are Christian thanks to the efforts of a missionary in the 20th century." %}}
 {{% galleryimage file="chiang-rai/IMG_0947.JPG" size="720x960" caption="Back at Yoon's house. What a great hostess!" %}}
-{{< /gallery >}}
-
-
-{{< gallery title="Chiang Mai" >}}
 {{% galleryimage file="chiang-mai/IMG_1076.JPG" size="720x960" caption="On day 3 we took a 3-hour bus ride to Chiang Mai, an old city and major tourist draw. We were picked up at the bus station by Apple, a Thai woman we know from Korea because she is the president of the fan club of a Korean singer and has stayed in our guesthouse." %}}
 {{% galleryimage file="chiang-mai/IMG_1001.JPG" size="3264x2448" caption="We found our guesthouse on AirBNB. It had sort of an Indian feel to it and we really liked it." %}}
 {{% galleryimage file="chiang-mai/IMG_1074.JPG" size="960x720" caption="We rented bikes for the 24 hours we would be there. The city is a confined within the square boundaries of 700-year-old moats, and is rather bikeable." %}}
@@ -45,9 +41,6 @@ See below for some photos of the affair.
 {{% galleryimage file="chiang-mai/DSC_0864.JPG" size="1549x1037" caption="This seems to be the sort of thing people come to Chiang Mai for and stay for a while." %}}
 {{% galleryimage file="chiang-mai/IMG_0956.JPG" size="10800x2408" caption="There are lots of temples in Chiang Mai." %}}
 {{% galleryimage file="chiang-mai/IMG_1067.JPG" size="720x960" caption="This temple is the main landmark. We caught it exactly as day became night. With the indigo sky and the moon shining and the first star coming out it was just gorgeous. We felt a lot of kinship with the builders and their search for God. But then it was jarring to see in the middle just a big Buddha." %}}
-{{< /gallery >}}
-
-{{< gallery title="Bangkok" >}}
 {{% galleryimage file="bangkok/DSC_0881.JPG" size="1037x1549" caption="Thursday was mostly just a travel day, then on Friday Jinhee and I set out to explore Bangkok. The best way to do this is by river taxi, which is a sort of public transit that connects right with the subway!" %}}
 {{% galleryimage file="bangkok/DSC_0876.JPG" size="1549x1037" caption="The view from the boat" %}}
 {{% galleryimage file="bangkok/IMG_1006.JPG" size="3264x2448" caption="We went for tea at the Mandarin Oriental, a hotel that's as historic as it is fancy." %}}
@@ -60,9 +53,6 @@ See below for some photos of the affair.
 {{% galleryimage file="bangkok/IMG_1009.JPG" size="3264x2448" caption="Architecture in the city center was like this, sort of European." %}}
 {{% galleryimage file="bangkok/IMG_1011.JPG" size="2448x3264" caption="Just a quaint alley that beckoned with possibility as we strolled past" %}}
 {{% galleryimage file="bangkok/IMG_1024.JPG" size="3264x2448" caption="On Sunday Jinhee and I went to this church, which we really appreciated along with its American pastor." %}}
-{{< /gallery >}}
-
-{{< gallery title="Beau's Wedding" >}}
 {{% galleryimage file="beaus-wedding/DSC_0916.JPG" size="1549x1037" caption="At the wedding those of us from our church sat together toward the front right. They had a translator for us who spoke into a microphone picked up by earpieces they gave us. We really appreciated that." %}}
 {{% galleryimage file="beaus-wedding/DSC_0937.JPG" size="1549x1037" caption="The last of the guests, like our friend Artemy here, had just flown into Bangkok the night before." %}}
 {{% galleryimage file="beaus-wedding/IMG_1077.JPG" size="540x960" caption="Beau's dad walked her down the aisle. He's a Buddhist, and we surmised that sitting through his daughter's Christian wedding ceremony from a special chair honoring him in the front may have been difficult for him." %}}
