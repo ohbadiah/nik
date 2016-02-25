@@ -49,7 +49,7 @@ See below for some photos of the affair.
 {{% galleryimage file="bangkok/DSC_0892.JPG" size="1037x1549" caption="I took Jinhee's picture as she took mine." %}}
 {{% galleryimage file="bangkok/DSC_0897.JPG" size="1549x1037" caption="We had been hot and crowded with foreigners, so it was surprising to suddenly be in a cooler, quiter, greener place." %}}
 {{% galleryimage file="bangkok/DSC_0898.JPG" size="1549x1037" caption="Lest we think that in a short day we could understand a city as great as Bangkok." %}}
-{{% galleryimage file="bangkok/DSC_0903.JPG" size="1549x1037" caption="We arrived at the Royal Palace and main temple just a bit too late to be admitted to thier gates." %}}
+{{% galleryimage file="bangkok/DSC_0903.JPG" size="1549x1037" caption="We arrived at the Royal Palace and main temple just a bit too late to be admitted to their gates." %}}
 {{% galleryimage file="bangkok/IMG_1009.JPG" size="3264x2448" caption="Architecture in the city center was like this, sort of European." %}}
 {{% galleryimage file="bangkok/IMG_1011.JPG" size="2448x3264" caption="Just a quaint alley that beckoned with possibility as we strolled past" %}}
 {{% galleryimage file="bangkok/IMG_1024.JPG" size="3264x2448" caption="On Sunday Jinhee and I went to this church, which we really appreciated along with its American pastor." %}}
@@ -60,8 +60,8 @@ See below for some photos of the affair.
 {{% galleryimage file="beaus-wedding/DSC_0924.JPG" size="1037x1549" caption="Two of our women wore traditional Korean hanbok to the wedding. Also, two of our youth came and performed a special song, which was very beautiful." %}}
 {{% galleryimage file="beaus-wedding/IMG_1071.JPG" size="960x540" caption="The whole gang from ICOS" %}}
 {{% galleryimage file="beaus-wedding/IMG_1069.JPG" size="720x960" caption="Jinhee and Beau" %}}
-{{% galleryimage file="beaus-wedding/IMG_1017.JPG" size="3264x2448" caption="The wedding reception was more like an awards show. Held in a nice hotel and flanked with lavish and varied buffets, the bride and groom remained on stage for the whole time." %}}
-{{% galleryimage file="beaus-wedding/IMG_1015.JPG" size="2448x3264" caption="Why just cut a cake, when you can mime cutting a giant fake cake with a saber while actual cake is served?" %}}
-{{% galleryimage file="beaus-wedding/IMG_1023.JPG" size="720x960" caption="Going with the awards show theme, pretending we won." %}}
-{{% galleryimage file="beaus-wedding/IMG_1030.JPG" size="960x720" caption="Beau and Tong were gracious enough to make some time to meet with us the next day. Given how many people came to their wedding this gesture felt really special." %}}
+{{% galleryimage file="beaus-wedding/IMG_1017.JPG" size="3264x2448" caption="The wedding reception was a really impressive affair. Held in a nice hotel and flanked with lavish and varied buffets, the bride and groom stayed on stage the whole time." %}}
+{{% galleryimage file="beaus-wedding/IMG_1015.JPG" size="2448x3264" caption="I've never seen a more impressive cake-cutting. The big cake wasn't real though; slices of actual cake were just handed out by the staff." %}}
+{{% galleryimage file="beaus-wedding/IMG_1023.JPG" size="720x960" caption="We won! (Just pretending.)" %}}
+{{% galleryimage file="beaus-wedding/IMG_1030.JPG" size="960x720" caption="Beau and Tong were able to make some time to meet with us the next day. Given how many people came to their wedding this felt really special." %}}
 {{% galleryinit %}}
